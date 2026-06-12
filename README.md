@@ -18,7 +18,7 @@ python cli.py --symbol BTCUSDT --side SELL --type LIMIT --quantity 0.001 --price
 
 ## Assumptions
 - Uses Binance Futures Testnet (USDT-M) only
-- API keys must be from testnet.binancefuture.com (Futures section, not Demo)
+- API keys must be from testnet.binancefuture.com (Demo version)
 - Enable Futures permission must be checked on the API key
 
 ## Logs
