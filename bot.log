@@ -1,0 +1,22 @@
+2026-06-12 22:00:21,411 INFO Request: {'symbol': 'BTCUSDT', 'side': 'BUY', 'type': 'MARKET', 'quantity': 0.001}
+2026-06-12 22:00:21,681 ERROR API error: APIError(code=-2015): Invalid API-key, IP, or permissions for action
+2026-06-12 22:00:46,997 INFO Request: {'symbol': 'BTCUSDT', 'side': 'BUY', 'type': 'MARKET', 'quantity': 0.001}
+2026-06-12 22:00:47,220 ERROR API error: APIError(code=-2015): Invalid API-key, IP, or permissions for action
+2026-06-12 22:02:21,218 INFO Request: {'symbol': 'BTCUSDT', 'side': 'BUY', 'type': 'MARKET', 'quantity': 0.001}
+2026-06-12 22:02:21,449 ERROR API error: APIError(code=-2015): Invalid API-key, IP, or permissions for action
+2026-06-12 22:08:14,192 INFO Request: {'symbol': 'BTCUSDT', 'side': 'BUY', 'type': 'MARKET', 'quantity': 0.001}
+2026-06-12 22:08:14,427 ERROR API error: APIError(code=-2015): Invalid API-key, IP, or permissions for action
+2026-06-12 22:10:41,211 INFO Request: {'symbol': 'BTCUSDT', 'side': 'BUY', 'type': 'MARKET', 'quantity': 0.001}
+2026-06-12 22:10:41,436 ERROR API error: APIError(code=-2015): Invalid API-key, IP, or permissions for action
+2026-06-12 22:12:16,316 INFO Request: {'symbol': 'BTCUSDT', 'side': 'BUY', 'type': 'MARKET', 'quantity': 0.001, 'timestamp': 1781282536316, 'signature': '54989ea9747590033891fa127165544821508f0e1e9de5e79b5da08cb5125213'}
+2026-06-12 22:12:16,552 INFO Response: {'code': -2015, 'msg': 'Invalid API-key, IP, or permissions for action'}
+2026-06-12 22:18:46,788 INFO Request: {'symbol': 'BTCUSDT', 'side': 'BUY', 'type': 'MARKET', 'quantity': 0.001, 'timestamp': 1781282926788, 'signature': '11ea3b3d2cbab42f11c580aa255f8bd9133eb062304e82b162de62efc657ef4a'}
+2026-06-12 22:18:47,036 INFO Response: {'code': -2015, 'msg': 'Invalid API-key, IP, or permissions for action'}
+2026-06-12 22:20:32,853 INFO Request: {'symbol': 'BTCUSDT', 'side': 'BUY', 'type': 'MARKET', 'quantity': 0.001, 'timestamp': 1781283032853, 'signature': 'bcdefafe496d458028b68a087f25d3f01556955ca52d700936ead54397b98937'}
+2026-06-12 22:20:33,077 INFO Response: {'code': -2015, 'msg': 'Invalid API-key, IP, or permissions for action'}
+2026-06-12 22:26:20,549 INFO Request: {'symbol': 'BTCUSDT', 'side': 'BUY', 'type': 'MARKET', 'quantity': 0.001, 'timestamp': 1781283380549, 'signature': '9ade5a1b63c7b2fa8e4ea8506a60be1620042d5cb43c681f5a3f095275749fb4'}
+2026-06-12 22:26:20,834 INFO Response: {'orderId': 15034526404, 'symbol': 'BTCUSDT', 'status': 'NEW', 'clientOrderId': 'uw7I80lkWSCcgqrg4xQNO7', 'price': '0.00', 'origQty': '0.0010', 'executedQty': '0.0000', 'cumQty': '0.0000', 'timeInForce': 'GTC', 'type': 'MARKET', 'reduceOnly': False, 'closePosition': False, 'side': 'BUY', 'positionSide': 'BOTH', 'stopPrice': '0.00', 'workingType': 'CONTRACT_PRICE', 'priceProtect': False, 'origType': 'MARKET', 'priceMatch': 'NONE', 'selfTradePreventionMode': 'EXPIRE_MAKER', 'goodTillDate': 0, 'updateTime': 1781283380797}
+2026-06-12 22:26:57,276 INFO Request: {'symbol': 'BTCUSDT', 'side': 'SELL', 'type': 'LIMIT', 'quantity': 0.001, 'timestamp': 1781283417276, 'price': 95000.0, 'timeInForce': 'GTC', 'signature': 'c12b8de4467be9c72fc92c9bfb1923bce289b37602b3265f4ba2a3221741c711'}
+2026-06-12 22:26:57,512 INFO Response: {'orderId': 15034557441, 'symbol': 'BTCUSDT', 'status': 'NEW', 'clientOrderId': 'J8CUDobcScr1RjtJ5xfTnD', 'price': '95000.00', 'origQty': '0.0010', 'executedQty': '0.0000', 'cumQty': '0.0000', 'timeInForce': 'GTC', 'type': 'LIMIT', 'reduceOnly': False, 'closePosition': False, 'side': 'SELL', 'positionSide': 'BOTH', 'stopPrice': '0.00', 'workingType': 'CONTRACT_PRICE', 'priceProtect': False, 'origType': 'LIMIT', 'priceMatch': 'NONE', 'selfTradePreventionMode': 'EXPIRE_MAKER', 'goodTillDate': 0, 'updateTime': 1781283417477}
+2026-06-12 22:31:36,006 INFO Request: {'symbol': 'BTCUSDT', 'side': 'SELL', 'type': 'LIMIT', 'quantity': 0.001, 'price': 95000.0, 'timeInForce': 'GTC'}
+2026-06-12 22:31:36,245 INFO Response: {'orderId': 15034806690, 'symbol': 'BTCUSDT', 'status': 'NEW', 'clientOrderId': 'x-Cb7ytekJ4582155c2ff286cbb3cf45', 'price': '95000.00', 'origQty': '0.0010', 'executedQty': '0.0000', 'cumQty': '0.0000', 'timeInForce': 'GTC', 'type': 'LIMIT', 'reduceOnly': False, 'closePosition': False, 'side': 'SELL', 'positionSide': 'BOTH', 'stopPrice': '0.00', 'workingType': 'CONTRACT_PRICE', 'priceProtect': False, 'origType': 'LIMIT', 'priceMatch': 'NONE', 'selfTradePreventionMode': 'EXPIRE_MAKER', 'goodTillDate': 0, 'updateTime': 1781283696207}
